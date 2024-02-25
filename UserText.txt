@@ -4,11 +4,4 @@ HI Git Tags
 
 
 Git Branch changes
-User can Add 
-User can Delete
-User can Update and Delete
-
-User can Dance
-
-
-Eat, Conquer and Coquer
+User can Add delete

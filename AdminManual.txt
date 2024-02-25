@@ -4,4 +4,4 @@ Login
 Logout
 
 place order
-pay
+pay history
