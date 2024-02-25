@@ -9,4 +9,4 @@ User can Delete
 User can Delete
 
 User can Dance
-Eat
+Eat, Sleep
