@@ -2,3 +2,5 @@ Hello Admin!
 
 Login
 Logout
+
+place order
